@@ -1,5 +1,7 @@
 '''
 simple implementation of quicksort - ascending
+Memory complexity - On the order of O(1) 
+Time complexity - Best case: O(nlog(n)), Worst case: O(n^2)
 '''
 def switch(array, a, b):
     save = array[a]
