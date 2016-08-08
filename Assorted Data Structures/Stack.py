@@ -1,4 +1,6 @@
-
+'''
+a simple implementation of a stack 
+'''
 
 class Stack:
     def __init__(self):
