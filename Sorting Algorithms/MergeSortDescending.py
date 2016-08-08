@@ -1,5 +1,7 @@
 '''
   simple merge sort implementation, descending
+  Memory complexity - O(n) 
+  Time complexity - O(nlog(n))
 '''
 
 def mergeSortDescending(array):
